@@ -1,13 +1,8 @@
 ﻿广东频道,#genre#
 新会综合,http://www.namewee.xyz/gudou.php?id=xinhui_1500
-广州新闻,http://www.namewee.xyz/gudou.php?id=gzhouzongheHD
-广州新闻,https://justsometime.gztv.com/sec/xinwen.m3u8
-广州竞赛,http://www.namewee.xyz/gudou.php?id=gzfilmsgaoqing
-广州影视,https://justsometime.gztv.com/sec/yingshi.m3u8
-广州影视,http://www.namewee.xyz/gudou.php?id=gzcompetitiongaoqing
 佛山综合,http://www.namewee.xyz/gudou.php?id=foshanzongheHD_4500
-佛山公共,http://www.namewee.xyz/gudou.php?id=foshangonggongHD_4500
 佛山影视,http://www.namewee.xyz/gudou.php?id=foshanyingshiHD_4500
+顺德综合,http://www.namewee.xyz/gudou.php?id=shundeHD_4500
 珠海,http://www.namewee.xyz/gudou.php?id=zhuhaiHD1_4500
 珠海,http://www.namewee.xyz/gudou.php?id=zhuhaiHD2_4500
 深圳卫视,http://111.193.107.119:4022/rtp/239.3.1.134:8020
@@ -41,27 +36,18 @@ CCTV-5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225
 CCTV-6,http://39.134.66.110/PLTV/88888888/224/3221225814/index.m3u8
 CCTV-6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 CCTV-6,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
-CCTV-7,http://221.2.36.34:8888/newlive/live/hls/9/live.m3u8
-CCTV-7,http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8
-CCTV-7,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-CCTV-7,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
 CCTV-9,http://221.2.36.34:8888/newlive/live/hls/11/live.m3u8
 CCTV-9,http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8
 CCTV-9,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV-9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 CCTV-9,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
+CCTV-14,http://221.2.36.34:8888/newlive/live/hls/16/live.m3u8
+CCTV-14,http://39.134.66.110/PLTV/88888888/224/3221225674/index.m3u8
+CCTV-14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+CCTV-15,http://221.2.36.34:8888/newlive/live/hls/17/live.m3u8
+CCTV-15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 
 卫视频道,#genre#
-东方卫视,http://39.134.67.108/PLTV/88888888/224/3221225942/1.m3u8
-东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-东方卫视,http://39.134.65.164/PLTV/88888888/224/3221225672/1.m3u8
-东方卫视,http://39.134.65.179/PLTV/88888888/224/3221225672/1.m3u8
-东方卫视,http://39.134.65.173/PLTV/88888888/224/3221225672/1.m3u8
-东方卫视,http://39.134.65.175/PLTV/88888888/224/3221225672/1.m3u8
-山东卫视,http://39.134.67.108/PLTV/88888888/224/3221225952/1.m3u8
-山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-山东卫视,http://39.134.65.141/PLTV/88888888/224/3221225952/1.m3u8
 
 港·澳·台,#genre#
 
